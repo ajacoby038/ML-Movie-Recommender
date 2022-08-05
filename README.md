@@ -1,4 +1,4 @@
-# SummerProject
+# ML-Movie-Recommender
 
 ## Intro to Movie Recommendation Systems
 
